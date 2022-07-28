@@ -4,4 +4,8 @@ public class Test1 {
         System.out.println("Line 2");
         System.out.println("Line 3.1");
     }
+
+    public static void sum(int a, int b) {
+        System.out.println("sum = " + a+b);
+    }
 }
